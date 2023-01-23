@@ -1,7 +1,6 @@
 MiamiDadeAnimalShelter is an application for animal shelter which helps to add a new pet into database. 
 
 Here are the hints on how you can interact with MiamiDadeAnimalShelter:
-
 <img width="343" alt="Screenshot 2023-01-23 at 4 15 26 PM" src="https://user-images.githubusercontent.com/87250753/214156435-0f1ac5a5-3079-4183-a7ad-e14f693fce56.png">
 
 Enter pet name and description.
